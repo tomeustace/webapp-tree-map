@@ -1,0 +1,29 @@
+[
+  { "key": "Vue", "category": "Frameworks", "subcategory": "Progressive", "description": "A progressive enhancement framework", "url": "https://vuejs.org", "value": 25 },
+  { "key": "Angular", "category": "Frameworks", "subcategory": "Application", "description": "A framework for building client applications with HTML and Javascript or Typescript", "url": "https://angular.io", "value": 25 },
+  { "key": "React", "category": "Frameworks", "subcategory": "Progressive", "description": "A Javascript library for building user interfaces", "url": "https://facebook.github.io/react/",  "value": 25 },
+  { "key": "Ember", "category": "Frameworks", "subcategory": "Application", "description": "A framework for building ambitions web applications", "url": "https://www.emberjs.com/", "value": 25 },
+  { "key": "Elm", "category": "Frameworks", "subcategory": "Functional", "description": "A delightful language for reliable webapps", "url": "https://www.elm-lang.org/", "value": 25 },
+
+  { "key": "Vuex", "category": "State Management", "subcategory": "State Management Patterns", "value": 25 },
+  { "key": "ngrx", "category": "State Management", "subcategory": "State Management Patterns", "value": 25 },
+  { "key": "Log4js", "category": "Logging", "subcategory": "Event Logging", "description": "The logging framework for Javascript", "url": "http://stritti.github.io/log4js/", "value": 25 },
+  { "key": "LogLevel", "category": "Logging", "subcategory": "Event Logging", "description": "Minimal lightweight simple logging for Javascript", "url": "http://pimterry.github.io/loglevel/", "value": 25 },
+  { "key": "Vue-Router", "category": "Routing", "subcategory": "Vue", "value": 25 },
+  { "key": "UI Router", "category": "Routing", "subcategory": "Angular", "value": 25 },
+  { "key": "React Router", "category": "Routing", "subcategory": "React", "value": 25 },
+
+  { "key": "Pouch DB", "category": "Storage", "subcategory": "IndexDB", "value": 25 },
+  { "key": "Dexie", "category": "Storage", "subcategory": "IndexDB", "value": 25 },
+  { "key": "TaffyDB", "category": "Storage", "subcategory": "Local Storage", "value": 25 },
+  { "key": "LocalForage", "category": "Storage", "subcategory": "Local Storage", "value": 25 },
+  { "key": "Lodash", "category": "Utility", "subcategory": "Toolkit", "value": 25 },
+  { "key": "Lodash-fp", "category": "Utility", "subcategory": "Functional", "value": 25 },
+  { "key": "Underscore", "category": "Utility", "subcategory": "Toolkit", "value": 25 },
+  { "key": "Ramda", "category": "Utility", "subcategory": "Functional", "value": 25 },
+  { "key": "JQuery", "category": "DOM", "subcategory": "Manipulation", "value": 25 },
+  { "key": "Polymer", "category": "Web Components", "subcategory": "Standards", "value": 25 },
+  { "key": "Skatejs", "category": "Web Components", "subcategory": "Functional", "value": 25 },
+  { "key": "X-Tag", "category": "Web Components", "subcategory": "Standards", "value": 25 },
+  { "key": "Slimjs", "category": "Web Components", "subcategory": "Functional", "value": 25 }
+] 

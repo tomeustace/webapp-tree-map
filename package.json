@@ -1,0 +1,19 @@
+{
+  "name": "Javascript SPA Treemap",
+  "version": "1.0.0",
+  "description": "Showing common javascript dependencies for specific SPA capabilities",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "D3",
+    "CV"
+  ],
+  "author": "Tom Eustace",
+  "license": "MIT"
+}
